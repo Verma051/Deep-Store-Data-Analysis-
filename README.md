@@ -1,2 +1,4 @@
 # Deep-Store-Data-Analysis-
-Analyzed retail data using Excel to uncover sales trends, optimize inventory, and enhance customer retention. Utilized pivot tables and advanced functions to drive key business insights.
+Performed in-depth retail data analysis using Excel to uncover sales trends and optimize inventory. Created an interactive dashboard to visualize key insights, helping drive data-driven decisions and improve customer retention.
+
+Tools: Excel (Pivot Tables, VLOOKUP, Dashboards)
